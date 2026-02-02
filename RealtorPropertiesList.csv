@@ -1,2 +1,5 @@
 address,listing_url,first_name,last_name,email,days_on_market,property_price,number_photos,Full Name,First Name,Last Name ,Zip
 514 Lakeside Dr,https://www.realtor.com/realestateandhomes-detail/514-Lakeside-Dr_Springfield_TN_37172_M72315-87691,Dianne,Seeley,dianne.seeley@century21.com,48,450000,19,Dianne M. Seeley,Dianne,Seeley,37172
+Name,Age,City
+Alice, Jane,30,New York
+Bob,25,Los Angeles
