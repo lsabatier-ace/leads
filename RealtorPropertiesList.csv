@@ -3,4 +3,5 @@ address,listing_url,first_name,last_name,email,days_on_market,property_price,num
 Name,Age,City
 Alice, Jane,30,New York
 Bob,25,Los Angeles0,4,3,5,8
+2,0,2,6,-,0,2,-,0,29,5,0,0,6
 2,0,2,6,-,0,2,-,0,2
