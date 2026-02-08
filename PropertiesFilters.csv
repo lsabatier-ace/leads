@@ -1,0 +1,5 @@
+﻿NbListing,6000,,Stops when this number of listing is found
+Price,900,2000,price in kUSD
+DoM,58,120,days on market
+PictureCount,25,5000,Number of picture in add
+MaxNbPerZip,10,,max number of add for each zip code
