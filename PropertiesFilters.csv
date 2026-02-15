@@ -1,6 +1,7 @@
 Filter,min,max,txt
-NbListing,6000,,Stops when this number of listing is found
+NbListing,3000,,Stops when this number of listing is found
 Price,450,1800,price in kUSD
 DoM,29,60,days on market
 PictureCount,20,50,Number of picture in add
 MaxNbPerZip,5,,max number of add for each zip code
+
